@@ -1,5 +1,6 @@
 # OneTileIslandMapCS2
 
+A (almost) perfectly 1 one tile sized island is in the middle of the Pacific Ocean, a few miles west of the San Francisco bay lies this square shaped 1 tile island, which will soon have your growing city on it! Experience the ultimate one tile challenge, and also at the start you have access to the ocean as well to make your life easier.
 
 ## Manual Installation
 1. Go to the following path in a file exploring app (WinRar, Windows File Explorer, etc.):
